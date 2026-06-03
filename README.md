@@ -41,7 +41,7 @@
 - Encrypted password storage in a local **SQLite** database
 - **PyQt6** GUI + **Flask** local API for password management and generation
 - `Python` `PyQt6` `SQLite` `Flask`
-[→ View repo]((https://github.com/cis3296f25/PasswordManager)) 
+[→ View repo](https://github.com/cis3296f25/PasswordManager)
 
 
  ## Let's connect
